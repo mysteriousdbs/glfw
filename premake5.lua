@@ -1,5 +1,4 @@
 project "GLFW"
-    location "Hazel/ven/glfw"
     kind "StaticLib"
     language "C"
 
